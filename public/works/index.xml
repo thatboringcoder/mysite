@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Suryansh</title>
+    <link>http://localhost:1313/works/</link>
+    <description>Recent content in Works on Suryansh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ksuryansh5494@gmail.com (Suryansh)</managingEditor>
+    <webMaster>ksuryansh5494@gmail.com (Suryansh)</webMaster>
+    <copyright>Copy, right? :thinking:</copyright>
+    <lastBuildDate>Thu, 19 Feb 2026 22:45:20 +0530</lastBuildDate><atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Leetcode</title>
+      <link>http://localhost:1313/works/leetcode/leetcode/</link>
+      <pubDate>Thu, 19 Feb 2026 22:45:20 +0530</pubDate>
+      <author>ksuryansh5494@gmail.com (Suryansh)</author>
+      <guid>http://localhost:1313/works/leetcode/leetcode/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

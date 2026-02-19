@@ -17,6 +17,12 @@ buildFuture = false
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
+[services]
+  [services.disqus]
+    shortname = 'suryansh-2'
+
+[params]
+  showComments = true
 
 [pagination]
   pagerSize = 100
