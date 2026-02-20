@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saptdeeps on Suryansh</title>
+    <link>http://localhost:41565/saptdeep/</link>
+    <description>Recent content in Saptdeeps on Suryansh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ksuryansh5494@gmail.com (Suryansh)</managingEditor>
+    <webMaster>ksuryansh5494@gmail.com (Suryansh)</webMaster>
+    <copyright>Copy, right? :thinking:</copyright>
+    <lastBuildDate>Fri, 20 Feb 2026 21:18:47 +0530</lastBuildDate><atom:link href="http://localhost:41565/saptdeep/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ankit is gay</title>
+      <link>http://localhost:41565/saptdeep/about-me/</link>
+      <pubDate>Fri, 20 Feb 2026 21:18:47 +0530</pubDate>
+      <author>ksuryansh5494@gmail.com (Suryansh)</author>
+      <guid>http://localhost:41565/saptdeep/about-me/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

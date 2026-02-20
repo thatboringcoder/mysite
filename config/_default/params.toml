@@ -49,6 +49,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
+  showComments = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
@@ -97,7 +98,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [list]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false

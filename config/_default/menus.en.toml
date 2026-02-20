@@ -20,11 +20,11 @@
   pageRef = "works"
   weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
+[[main]]
+  name = "About"
 #  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+  pageRef = "about-me"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"

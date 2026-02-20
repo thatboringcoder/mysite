@@ -3,71 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:45987/posts/day-2/changes/</loc>
+    <loc>http://localhost:39553/posts/day-2/changes/</loc>
     <lastmod>2026-02-20T00:05:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45987/posts/</loc>
+    <loc>http://localhost:39553/posts/</loc>
     <lastmod>2026-02-20T00:05:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45987/</loc>
+    <loc>http://localhost:39553/</loc>
     <lastmod>2026-02-20T00:05:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:45987/fr/"
+      href="http://localhost:39553/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:45987/de/"
+      href="http://localhost:39553/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:45987/it/"
+      href="http://localhost:39553/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:45987/pt-pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:45987/es/"
+      href="http://localhost:39553/pt-pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:45987/pt-br/"
+      href="http://localhost:39553/pt-br/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:39553/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:45987/ja/"
+      href="http://localhost:39553/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:45987/zh-cn/"
+      href="http://localhost:39553/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:45987/"
+      href="http://localhost:39553/"
     />
   </url>
   <url>
-    <loc>http://localhost:45987/posts/intro/my-first-post/</loc>
+    <loc>http://localhost:39553/posts/intro/my-first-post/</loc>
     <lastmod>2026-02-18T14:04:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:39553/about-me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

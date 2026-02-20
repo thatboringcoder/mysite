@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suryansh</title>
-    <link>http://localhost:45987/</link>
+    <link>http://localhost:39553/</link>
     <description>Recent content on Suryansh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>ksuryansh5494@gmail.com (Suryansh)</managingEditor>
-    <webMaster>ksuryansh5494@gmail.com (Suryansh)</webMaster>
+    <managingEditor>feedback@suryansh.life (Suryansh)</managingEditor>
+    <webMaster>feedback@suryansh.life (Suryansh)</webMaster>
     <copyright>Copy, right? :thinking:</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 00:05:36 +0530</lastBuildDate><atom:link href="http://localhost:45987/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 00:05:36 +0530</lastBuildDate><atom:link href="http://localhost:39553/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Changes</title>
-      <link>http://localhost:45987/posts/day-2/changes/</link>
+      <link>http://localhost:39553/posts/day-2/changes/</link>
       <pubDate>Fri, 20 Feb 2026 00:05:36 +0530</pubDate>
-      <author>ksuryansh5494@gmail.com (Suryansh)</author>
-      <guid>http://localhost:45987/posts/day-2/changes/</guid>
+      <author>feedback@suryansh.life (Suryansh)</author>
+      <guid>http://localhost:39553/posts/day-2/changes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Intro</title>
-      <link>http://localhost:45987/posts/intro/my-first-post/</link>
+      <link>http://localhost:39553/posts/intro/my-first-post/</link>
       <pubDate>Wed, 18 Feb 2026 14:04:21 +0530</pubDate>
-      <author>ksuryansh5494@gmail.com (Suryansh)</author>
-      <guid>http://localhost:45987/posts/intro/my-first-post/</guid>
+      <author>feedback@suryansh.life (Suryansh)</author>
+      <guid>http://localhost:39553/posts/intro/my-first-post/</guid>
       <description></description>
       
     </item>
