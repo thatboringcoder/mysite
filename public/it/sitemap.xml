@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:39553/it/</loc>
+    <loc>http://localhost:35763/it/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:39553/"
+      href="http://localhost:35763/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:39553/fr/"
+      href="http://localhost:35763/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:39553/de/"
+      href="http://localhost:35763/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:39553/pt-pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:39553/pt-br/"
+      href="http://localhost:35763/pt-pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:39553/es/"
+      href="http://localhost:35763/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:35763/pt-br/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:39553/ja/"
+      href="http://localhost:35763/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:39553/zh-cn/"
+      href="http://localhost:35763/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:39553/it/"
+      href="http://localhost:35763/it/"
     />
   </url>
 </urlset>

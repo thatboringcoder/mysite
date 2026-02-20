@@ -49,7 +49,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
-  showComments = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
@@ -94,6 +93,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = true
+  showComments = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
